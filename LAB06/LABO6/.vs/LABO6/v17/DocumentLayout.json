@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MUT-00\\MIIA0106-2025-A\\LABO6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9EE6BC06-FEA9-4E2D-ADBF-877B6F78C1B4}|..\\lab0604\\lab0604.vcxproj|C:\\Users\\MUT-00\\MIIA0106-2025-A\\lab0604\\lab0604.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4F25409-0BCD-43FC-BBE1-0F3D0B5816B9}|..\\lab0603\\lab0603.vcxproj|C:\\Users\\MUT-00\\MIIA0106-2025-A\\lab0603\\lab0603.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AA169E0-EE53-4EB1-8E12-C8699A54A862}|..\\lab0602\\lab0602.vcxproj|C:\\Users\\MUT-00\\MIIA0106-2025-A\\lab0602\\lab0602.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{730B34E5-8262-4F8F-8C8A-1F94FE8ED496}|LABO6.vcxproj|C:\\Users\\MUT-00\\MIIA0106-2025-A\\LABO6\\LABO6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{730B34E5-8262-4F8F-8C8A-1F94FE8ED496}|LABO6.vcxproj|solutionrelative:LABO6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "lab0604.cpp",
+              "DocumentMoniker": "C:\\Users\\MUT-00\\MIIA0106-2025-A\\lab0604\\lab0604.cpp",
+              "RelativeDocumentMoniker": "..\\lab0604\\lab0604.cpp",
+              "ToolTip": "C:\\Users\\MUT-00\\MIIA0106-2025-A\\lab0604\\lab0604.cpp*",
+              "RelativeToolTip": "..\\lab0604\\lab0604.cpp*",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAwCQAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-23T09:48:48.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "lab0603.cpp",
+              "DocumentMoniker": "C:\\Users\\MUT-00\\MIIA0106-2025-A\\lab0603\\lab0603.cpp",
+              "RelativeDocumentMoniker": "..\\lab0603\\lab0603.cpp",
+              "ToolTip": "C:\\Users\\MUT-00\\MIIA0106-2025-A\\lab0603\\lab0603.cpp",
+              "RelativeToolTip": "..\\lab0603\\lab0603.cpp",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-23T09:28:49.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "lab0602.cpp",
+              "DocumentMoniker": "C:\\Users\\MUT-00\\MIIA0106-2025-A\\lab0602\\lab0602.cpp",
+              "RelativeDocumentMoniker": "..\\lab0602\\lab0602.cpp",
+              "ToolTip": "C:\\Users\\MUT-00\\MIIA0106-2025-A\\lab0602\\lab0602.cpp",
+              "RelativeToolTip": "..\\lab0602\\lab0602.cpp",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACgAAABuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-23T09:15:02.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LABO6.cpp",
+              "DocumentMoniker": "C:\\Users\\MUT-00\\MIIA0106-2025-A\\LABO6\\LABO6.cpp",
+              "RelativeDocumentMoniker": "LABO6.cpp",
+              "ToolTip": "C:\\Users\\MUT-00\\MIIA0106-2025-A\\LABO6\\LABO6.cpp",
+              "RelativeToolTip": "LABO6.cpp",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAABMAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-23T08:47:00.188Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
