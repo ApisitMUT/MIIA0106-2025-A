@@ -1,0 +1,48 @@
+#include <iostream>
+#include <string>
+using namespace std;
+
+struct Student {
+    
+        string id;
+        string nickname;
+        string lineid;
+        string phone;
+    // TODO
+};
+
+int main() {
+    const int SIZE = 5;
+    Student students[SIZE]; // Array ของ struct
+
+    // INPUT
+    for (int i = 0; i < SIZE; i++) {
+        cout << "=== Input Student " << (i + 1) << " ===\n";
+
+        // TODO: cin >> students[i]...
+        cout << "Enter ID: ";
+       cin >> students[i].id;
+       cout << "Enter Nickname: ";
+       cin >> students[i].nickname;
+        cout << "Enter Line ID: ";
+        cin >> students[i].lineid;
+        cout << "Enter Phone: ";
+        cin >> students[i].phone;
+            
+
+        
+        cout << endl;
+    }
+
+    // OUTPUT
+    cout << "\n===== Student List =====\n";
+    for (int i = 0; i < SIZE; i++) {
+        // TODO: cout << students[i]...
+        cout << "Nickname: " << students[i].nickname << "\n";
+        cout << "Line ID: " << students[i].lineid << "\n";
+        cout << "Phone: " << students[i].phone << "\n";
+        cout << "----------------------\n";
+    }
+
+    return 0;
+}
